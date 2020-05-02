@@ -7,5 +7,5 @@ A tictactoe game has been made using the python libraries.</br> Python library T
 </br>
 
 
-Implemention of the algorithm for single player will be implemented in future.
+Implemention of the algorithm for single player will be done in future.
 
