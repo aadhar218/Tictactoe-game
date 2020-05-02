@@ -1,5 +1,5 @@
 # Tictactoe-Game
-A tictactoe game has been made using the python libraries.</br> Python library Tkinter has been used to create graphical interface of the game.</br>
+A tictactoe game has been made using the python libraries.</br> Python library Tkinter has been used to create graphical interface of the game The python code for a simple tictactoe and the graphical one has been put up separately.</br>
 
 </br>
 
